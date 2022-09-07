@@ -37,4 +37,5 @@
 - [ASP .Net Core API with Swagger](https://karmakarmala.github.io/CRUDSwaggerWebAPI/)
 <!-- BLOG-POST-LIST:END -->
 
-
+---
+<img src="https://komarev.com/ghpvc/?username=your-github-karmakarmala&style=flat-square&color=blue" alt=""/>
