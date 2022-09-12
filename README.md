@@ -35,6 +35,7 @@
 
 ### ✍️ Blog Posts : 
 - [ASP .Net Core API with Swagger](https://karmakarmala.github.io/CRUDSwaggerWebAPI/)
+- [SQL Database Project for maintaining DB scripts](https://karmakarmala.github.io/SQLDatabaseProject/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
