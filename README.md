@@ -20,8 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/1874103/46415699-cfc5cf00-c6f3-11e8-9bcc-2fc2bf1759ec.png" title="Azure DevOps" alt="VS" width="40" height="40"/>&nbsp;
 </p>
 
 ---
