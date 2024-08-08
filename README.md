@@ -37,6 +37,7 @@
 ### ✍️ Blog Posts : 
 - [ASP .Net Core API with Swagger](https://karmakarmala.github.io/CRUDSwaggerWebAPI/)
 - [SQL Database Project for maintaining DB scripts](https://karmakarmala.github.io/SQLDatabaseProject/)
+- [Authentication with OAuth 2.0 and OpenID Connect](https://karmakarmala.github.io/OAuth-App/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
