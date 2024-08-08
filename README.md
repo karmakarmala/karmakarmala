@@ -38,7 +38,7 @@
 - [ASP .Net Core API with Swagger](https://karmakarmala.github.io/CRUDSwaggerWebAPI/)
 - [SQL Database Project for maintaining DB scripts](https://karmakarmala.github.io/SQLDatabaseProject/)
 - [Authentication with OAuth 2.0 and OpenID Connect](https://karmakarmala.github.io/OAuth-App/)
+- [Design Patterns](https://karmakarmala.github.io/design-patterns/#singleton-pattern)
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img src="https://komarev.com/ghpvc/?username=your-github-karmakarmala&style=flat-square&color=blue" alt=""/>
